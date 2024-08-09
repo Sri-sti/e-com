@@ -1,0 +1,13 @@
+1. We created the react app with cmd "npx create-react-app ."(we used . to create it within the folder)
+
+2. we are going to download some packages
+   a. We installed from MUI.com default mui code with command "npm install @mui/material @emotion/react @emotion/styled"
+   "MUI it's called material ui it's used to makebeautiful design with react.js . MUI is developed by google"
+   TOPICS TO COVER OR PRACTICE IS MUI TUTORIAL FOR BEGGINERS
+   b. We installed MUI icons cmd "npm install @mui/icons-material @mui/material @emotion/styled @emotion/react"
+
+   c. We installed tailwind css from tailwind website from react compnect cmd "npm install -D tailwindcss
+      npx tailwindcss init"
+      then we used copied the code from configure your template path and paste it on tailwind.config.js file
+      next we copied tailwind direcctives and add it in our index.css whic is present ijn src folder
+      
