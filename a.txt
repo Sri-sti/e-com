@@ -10,4 +10,19 @@
       npx tailwindcss init"
       then we used copied the code from configure your template path and paste it on tailwind.config.js file
       next we copied tailwind direcctives and add it in our index.css whic is present ijn src folder
-      
+
+Now we are going to create a NAVBAR:
+
+1. We went to tailwind ui components from there we selected a navigation bar copied it's react code and then created a folder customer within it we created another folder components and another folder in it navigation and in navigation created a file Navigation.jsx in it we paste the code.
+
+Now we are createing home crousel:
+
+2. We created another folder named Home carousel within components and created a file Maincarousel in it.
+3. After Maincarousel we created another folder in customer as pages in it we created another folder as homepage
+in it we created a jsx file as Homepage.jsx.
+4. Added path and url for image in crousel
+
+Now we created a home card
+5. created file homesectioncard in which we have a men's shrt card
+
+
